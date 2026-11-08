@@ -1,0 +1,12 @@
+{
+  "business": {
+    "name": "Thompson Painting Co",
+    "phone": "402-612-6469",
+    "email": "info@tpcomaha.com",
+    "logo": "logo.png"
+  },
+  "door_sqft": 21,
+  "window_sqft": 15,
+  "high_ceiling_threshold_ft": 10,
+  "high_ceiling_surcharge": 0.15
+}

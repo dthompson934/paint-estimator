@@ -1,0 +1,14 @@
+group,group_label,option,multiplier
+paint_quality,Paint,Standard,1.00
+paint_quality,Paint,Premium,1.15
+paint_quality,Paint,Ultra premium,1.30
+sheen,Sheen,Flat,1.00
+sheen,Sheen,Eggshell,1.00
+sheen,Sheen,Satin,1.05
+sheen,Sheen,Semi-gloss,1.10
+prep_level,Prep,Light,1.00
+prep_level,Prep,Moderate,1.15
+prep_level,Prep,Heavy,1.35
+drywall_finish,Finish level,Level 3,1.00
+drywall_finish,Finish level,Level 4,1.20
+drywall_finish,Finish level,Level 5,1.45

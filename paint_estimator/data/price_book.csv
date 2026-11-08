@@ -1,0 +1,15 @@
+service_id,category,service,unit,rate,option_groups,height_surcharge,description
+walls,Interior,Wall painting,wall_sqft,1.50,paint_quality|sheen|prep_level,Y,Two coats on walls
+ceilings,Interior,Ceiling painting,ceiling_sqft,1.25,paint_quality|prep_level,Y,Two coats on ceiling
+primer,Interior,Priming,wall_sqft,0.60,prep_level,Y,One coat of primer
+accent_wall,Interior,Accent wall,each,175.00,paint_quality|sheen,N,Single wall in a contrasting color
+trim,Interior,Trim / baseboard painting,perimeter_ft,1.50,paint_quality|sheen|prep_level,N,Baseboards and trim
+caulking,Interior,Caulking,perimeter_ft,1.00,,N,Caulk gaps at trim and corners
+door_repaint,Interior,Door repaint,each,85.00,paint_quality|sheen,N,Both sides of one door
+wall_repair,Repair,Wall repair (patch),each,25.00,,N,Patch and sand one hole or damaged spot
+drywall_finish,Repair,Drywall finishing,sqft,2.25,drywall_finish,N,Tape and mud drywall
+cab_boxes,Cabinets,Cabinet boxes,each,60.00,paint_quality|prep_level,N,Paint exterior of one cabinet box
+cab_doors,Cabinets,Cabinet doors,each,75.00,paint_quality|prep_level,N,Both sides of one cabinet door
+cab_drawers,Cabinets,Cabinet drawer fronts,each,45.00,paint_quality|prep_level,N,One drawer front
+outlets,Misc,Remove / replace outlet covers,each,5.00,,N,Per outlet or switch plate
+misc_labor,Misc,Misc labor,hour,60.00,,N,Hourly labor for other tasks
